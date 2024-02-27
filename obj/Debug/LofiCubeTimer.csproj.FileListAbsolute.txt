@@ -1,0 +1,15 @@
+C:\Users\Luigi\OneDrive\Desktop\LofiCubeTimer\bin\Debug\LofiCubeTimer.exe.config
+C:\Users\Luigi\OneDrive\Desktop\LofiCubeTimer\bin\Debug\LofiCubeTimer.exe
+C:\Users\Luigi\OneDrive\Desktop\LofiCubeTimer\bin\Debug\LofiCubeTimer.pdb
+C:\Users\Luigi\OneDrive\Desktop\LofiCubeTimer\obj\Debug\LofiCubeTimer.csproj.AssemblyReference.cache
+C:\Users\Luigi\OneDrive\Desktop\LofiCubeTimer\obj\Debug\LofiCubeTimer.LofiTimer.resources
+C:\Users\Luigi\OneDrive\Desktop\LofiCubeTimer\obj\Debug\LofiCubeTimer.Properties.Resources.resources
+C:\Users\Luigi\OneDrive\Desktop\LofiCubeTimer\obj\Debug\LofiCubeTimer.csproj.GenerateResource.cache
+C:\Users\Luigi\OneDrive\Desktop\LofiCubeTimer\obj\Debug\LofiCubeTimer.csproj.CoreCompileInputs.cache
+C:\Users\Luigi\OneDrive\Desktop\LofiCubeTimer\obj\Debug\LofiCubeTimer.exe
+C:\Users\Luigi\OneDrive\Desktop\LofiCubeTimer\obj\Debug\LofiCubeTimer.pdb
+C:\Users\Luigi\OneDrive\Desktop\LofiCubeTimer\obj\Debug\LofiCubeTimer.SolvingStation.resources
+C:\Users\Luigi\OneDrive\Desktop\LofiCubeTimer\obj\Debug\LofiCubeTimer.Registration.resources
+C:\Users\Luigi\OneDrive\Desktop\LofiCubeTimer\bin\Debug\MySql.Data.dll
+C:\Users\Luigi\OneDrive\Desktop\LofiCubeTimer\bin\Debug\MySql.Data.xml
+C:\Users\Luigi\OneDrive\Desktop\LofiCubeTimer\obj\Debug\LofiCubeTimer.csproj.CopyComplete
